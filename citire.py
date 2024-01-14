@@ -1,30 +1,24 @@
 import pandas as pd
 
-# Încărcați setul de date (exemplu CSV)
-df = pd.read_csv('Pokemon.csv')
+def incarca_date(file_path):
+    return pd.read_csv(file_path)
 
-# Verificați prezența datelor lipsă
-print(df.isnull().sum())
+def tratare_date(df):
+    df = elimina_date_lipsa(df)
+    df = elimina_duplicate(df)
+    return df
 
-# Eliminați rândurile cu date lipsă
-df = df.dropna()
+def elimina_date_lipsa(df):
+    return df.dropna()
 
+def elimina_duplicate(df):
+    return df.drop_duplicates()
 
+def salveaza_date(df, file_path):
+    df.to_csv(file_path, index=False)
 
-
-# Eliminați duplicatelor bazate pe toate coloanele
-df = df.drop_duplicates()
-
-# Eliminați duplicatelor bazate pe anumite coloane
-# df = df.drop_duplicates(subset=['coloana1', 'coloana2'])
-
-
-
-
-
-
-
-
-
-# Salvați setul de date curățat într-un nou fișier CSV
-df.to_csv('nume_set_date_curatat.csv', index=False)
+if __name__ == "__main__":
+    file_path = 'Pokemon.csv'
+    df = incarca_date(file_path)
+    df_tratat = tratare_date(df)
+    salveaza_date(df_tratat, 'nume_set_date_curatat.csv')
