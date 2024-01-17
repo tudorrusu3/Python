@@ -21,4 +21,4 @@ if __name__ == "__main__":
     file_path = 'fifa_2023.csv'
     df = incarca_date(file_path)
     df_tratat = tratare_date(df)
-    salveaza_date(df_tratat, 'nume_set_date_curatat.csv')
+    salveaza_date(df_tratat, 'Set_date_curatat.csv')
