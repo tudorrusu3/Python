@@ -18,7 +18,7 @@ def salveaza_date(df, file_path):
     df.to_csv(file_path, index=False)
 
 if __name__ == "__main__":
-    file_path = 'Pokemon.csv'
+    file_path = 'fifa_2023.csv'
     df = incarca_date(file_path)
     df_tratat = tratare_date(df)
     salveaza_date(df_tratat, 'nume_set_date_curatat.csv')

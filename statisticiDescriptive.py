@@ -13,18 +13,18 @@ def genereaza_statistici_si_grafice(file_path):
 
     # Grafice
 
-    # Histograma pentru distribuția vitezei (Speed)
+    # Histograma pentru distribuția vitezei (PAC)
     plt.figure(figsize=(10, 6))
-    sns.histplot(df_tratat['Speed'], bins=20, kde=True, color='skyblue')
-    plt.title('Distribuția Vitezei Pokemon')
-    plt.xlabel('Viteză')
-    plt.ylabel('Număr de Pokemon')
+    sns.histplot(df_tratat['PAC'], bins=20, kde=True, color='skyblue')
+    plt.title('Distribuția Vitezei FIFA Players')
+    plt.xlabel('Viteză PAC')
+    plt.ylabel('Număr de Jucători')
     plt.show()
 
-    # Diagrama de cutie pentru statistici de bază (HP, Attack, Defense)
+    # Diagrama de cutie pentru statistici de bază (PAC, SHO, PAS, DRI, DEF, PHY)
     plt.figure(figsize=(12, 8))
-    sns.boxplot(data=df_tratat[['HP', 'Attack', 'Defense']])
-    plt.title('Statistici de Bază pentru HP, Attack, și Defense')
+    sns.boxplot(data=df_tratat[['PAC', 'SHO', 'PAS', 'DRI', 'DEF', 'PHY']])
+    plt.title('Statistici de Bază pentru PAC, SHO, PAS, DRI, DEF, PHY')
     plt.xlabel('Statistici de Bază')
     plt.ylabel('Valoare')
     plt.show()
@@ -35,7 +35,7 @@ def genereaza_statistici_si_grafice(file_path):
 
     plt.figure(figsize=(10, 8))
     sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
-    plt.title('Matrice de Corelație între Atributele Pokemon')
+    plt.title('Matrice de Corelație între Atributele FIFA Players')
     plt.show()
 
     # Adăugăm logica pentru a permite navigarea la următoarea etapă sau să ieșim
@@ -48,5 +48,5 @@ def genereaza_statistici_si_grafice(file_path):
 
 # Apelul funcției pentru generarea statisticilor și a graficelor
 if __name__ == "__main__":
-    file_path = 'Pokemon.csv'
+    file_path = 'FIFA_2023.csv'
     genereaza_statistici_si_grafice(file_path)

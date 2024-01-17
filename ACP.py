@@ -3,7 +3,7 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
 # Încarcă datele din fișierul CSV
-df_filled = pd.read_csv('pokemon.csv')
+df_filled = pd.read_csv('fifa_2023.csv')
 
 # Elimină coloanele non-numerice sau cu date lipsă (dacă este necesar)
 # De exemplu, eliminăm coloanele 'Name', 'Type 1', 'Type 2', 'Legendary'

@@ -1,4 +1,4 @@
-Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF,PHY
+,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF,PHY
 0,Lionel Messi,98,team-of-the-season,ST,Argentina,Ligue 1 Uber Eats,Paris SG,94,97,96,99,40,79
 1,Lionel Messi,98,team-of-the-year,RW,Argentina,Ligue 1 Uber Eats,Paris SG,93,98,97,99,40,77
 2,Pelé,98,icon,CAM,Brazil,Icons,Icons,95,96,93,96,60,76
@@ -1229,6 +1229,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 1227,Davinson Sánchez,87,rulebreakers,CB,Colombia,Premier League,Spurs,80,52,71,63,87,86
 1228,Leonardo Bonucci,87,rulebreakers,CB,Italy,Serie A TIM,Juventus,78,63,72,68,87,85
 1229,Kalvin Phillips,87,rulebreakers,CDM,England,Premier League,Manchester City,75,73,84,83,88,80
+1230,Dimitri Payet,87,rulebreakers,CAM,France,,OM,87,86,81,86,44,78
 1231,Nicolò Barella,87,team-of-the-week,CM,Italy,Serie A TIM,Inter,80,78,84,85,79,82
 1232,Lautaro Martínez,87,team-of-the-week,ST,Argentina,Serie A TIM,Inter,84,85,74,86,49,85
 1233,Nabil Fekir,87,rulebreakers,CAM,France,LaLiga Santander,Real Betis,85,85,88,84,40,83
@@ -1399,9 +1400,11 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 1398,Enzo Fernández,86,world-cup-showdown,CM,Argentina,Liga Portugal,SL Benfica,83,80,85,86,81,87
 1399,Mario Pašalić,86,world-cup-showdown,CAM,Croatia,Serie A TIM,Bergamo Calcio,83,85,86,88,70,83
 1400,Daichi Kamada,86,world-cup-showdown,CAM,Japan,Bundesliga,Frankfurt,83,81,86,89,53,68
+1401,Amine Harit,86,world-cup-showdown,CAM,Morocco,,OM,86,80,85,88,50,59
 1402,Lisandro Martínez,86,world-cup-phenoms,LB,Argentina,Premier League,Manchester Utd,80,65,82,82,87,88
 1403,Takefusa Kubo,86,world-cup-phenoms,CAM,Japan,LaLiga Santander,Real Sociedad,91,77,82,92,50,65
 1404,Jules Koundé,86,world-cup-phenoms,CB,France,LaLiga Santander,FC Barcelona,86,46,71,76,87,82
+1405,Mattéo Guendouzi,86,world-cup-phenoms,CM,France,,OM,81,80,85,83,84,86
 1406,Giovanni Reyna,86,world-cup-phenoms,CAM,United States,Bundesliga,Borussia Dortmund,87,80,83,91,44,80
 1407,Jonathan David,86,world-cup-phenoms,ST,Canada,Ligue 1 Uber Eats,LOSC Lille,89,87,79,85,40,79
 1408,Jeremie Frimpong,86,world-cup-phenoms,RB,Netherlands,Bundesliga,Leverkusen,96,61,80,88,81,79
@@ -1761,6 +1764,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 1762,Jamie Vardy,85,rare,ST,England,Premier League,Leicester City,84,84,70,79,52,72
 1763,Marcos Acuña,85,rare,LB,Argentina,LaLiga Santander,Sevilla FC,76,74,83,87,80,83
 1764,Nabil Fekir,85,rare,CAM,France,LaLiga Santander,Real Betis,83,82,82,87,38,80
+1765,Filip Kostić,85,rare,LM,Serbia,,,84,78,82,82,68,80
 1766,Iago Aspas,85,rare,ST,Spain,LaLiga Santander,RC Celta,82,85,79,86,35,63
 1767,Patrik Schick,85,rare,ST,Czech Republic,Bundesliga,Leverkusen,78,83,71,83,36,76
 1768,Diogo Jota,85,rare,CF,Portugal,Premier League,Liverpool,85,83,75,85,57,77
@@ -1949,10 +1953,12 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 1951,Alexander Sørloth,84,team-of-the-week,ST,Norway,LaLiga Santander,Real Sociedad,88,83,76,82,41,90
 1952,Chris Smalling,84,team-of-the-week,CB,England,Serie A TIM,Roma FC,66,50,62,64,86,83
 1953,Rodrigo,84,ha-fuf8e,CAM,Spain,Premier League,Leeds United,84,84,83,85,52,77
+1954,Chancel Mbemba,84,ha-fuf8e,CB,DR Congo,,OM,78,52,61,69,84,85
 1955,Timo Werner,84,team-of-the-week,LM,Germany,Bundesliga,RB Leipzig,92,82,72,84,37,72
 1956,James Maddison,84,team-of-the-week,RM,England,Premier League,Leicester City,76,81,86,87,56,65
 1957,Marcus Rashford,84,potm-premier-league,ST,England,Premier League,Manchester Utd,88,84,79,83,46,77
 1958,Jack Harrison,84,ha-fuf8e,LM,England,Premier League,Leeds United,87,80,78,86,56,76
+1959,Luis Javier Suárez,84,ha-fuf8e,ST,Colombia,,OM,87,83,73,81,47,84
 1960,Jamal Musiala,84,team-of-the-week,CAM,Germany,Bundesliga,FC Bayern München,78,77,79,90,66,64
 1961,Sergiño Dest,84,ones-to-watch,RB,United States,Serie A TIM,Milan,92,67,82,88,78,75
 1962,Eldor Shomurodov,84,team-of-the-week,ST,Uzbekistan,Serie A TIM,Roma FC,88,84,74,84,49,80
@@ -1971,6 +1977,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 1975,Stefan Savić,84,rare,CB,Montenegro,LaLiga Santander,Atlético de Madrid,64,35,58,58,87,80
 1976,Lorenzo Insigne,84,rare,LW,Italy,Major League Soccer,Toronto FC,84,78,84,89,36,45
 1977,Joel Matip,84,rare,CB,Cameroon,Premier League,Liverpool,61,46,69,71,87,78
+1978,Leonardo Bonucci,84,rare,CB,Italy,,,54,59,69,71,85,78
 1979,Thomas Partey,84,rare,CDM,Ghana,Premier League,Arsenal,65,71,81,80,80,83
 1980,Lucas Hernández,84,rare,CB,France,Bundesliga,FC Bayern München,77,54,70,71,84,80
 1981,Canales,84,rare,RM,Spain,LaLiga Santander,Real Betis,83,79,85,82,68,71
@@ -2147,6 +2154,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2152,Idrissa Gueye,83,world-cup-player,CDM,Senegal,World Cup,Senegal,68,67,73,79,84,77
 2153,Ferran Torres,83,world-cup-player,LW,Spain,World Cup,Spain,85,80,80,84,36,68
 2154,Djibril Sow,83,out-of-position,RB,Switzerland,Bundesliga,Frankfurt,84,70,80,82,80,81
+2155,Isaak Touré,83,out-of-position,ST,France,,OM,86,83,78,86,48,84
 2156,Davide Biraschi,83,squad-foundations,CB,Italy,Süper Lig,Karagümrük SK,77,46,72,80,86,82
 2157,Yunus Mallı,83,squad-foundations,CAM,Turkey,Süper Lig,Kasımpaşa,82,81,84,85,45,67
 2158,Yeray,83,team-of-the-week,CB,Spain,LaLiga Santander,Athletic Club,70,52,66,68,85,81
@@ -2164,6 +2172,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2170,Facundo Quignon,83,squad-foundations,CDM,Argentina,Major League Soccer,FC Dallas,76,70,78,84,83,87
 2171,Nicolás Lodeiro,83,squad-foundations,CAM,Uruguay,Major League Soccer,Sounders FC,76,80,86,87,53,73
 2172,Christian Kabasele,83,squad-foundations,CB,Belgium,EFL Championship,Watford,74,57,62,68,84,86
+2173,Jonathan Clauss,83,team-of-the-week,LWB,France,,OM,87,73,79,81,73,74
 2174,Deulofeu,83,team-of-the-week,ST,Spain,Serie A TIM,Udinese,93,82,79,86,33,71
 2175,William Saliba,83,team-of-the-week,CB,France,Premier League,Arsenal,80,43,71,75,84,82
 2176,De Tomás,83,rare,ST,Spain,LaLiga Santander,Rayo Vallecano,77,84,77,83,40,78
@@ -2189,6 +2198,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2196,Ronald Araujo,83,rare,CB,Uruguay,LaLiga Santander,FC Barcelona,77,51,65,61,83,83
 2197,Raul De Tomas Gomez,83,nif,ST,Spain,LaLiga Santander,RCD Espanyol,77,84,77,83,40,78
 2198,John Stones,83,rare,CB,England,Premier League,Manchester City,72,51,71,75,84,77
+2199,Juan Cuadrado,83,rare,RB,Colombia,,,90,75,78,87,76,72
 2200,Carlos Soler Barragan,83,nif,CM,Spain,Ligue 1 Uber Eats,Paris SG,80,77,83,80,71,72
 2201,José María Giménez,83,rare,CB,Uruguay,LaLiga Santander,Atlético de Madrid,71,46,57,60,85,83
 2202,Bremer,83,rare,CB,Brazil,Serie A TIM,Juventus,78,50,56,65,84,79
@@ -2361,12 +2371,14 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2369,Bukayo Saka,82,rare,RM,England,Premier League,Arsenal,84,74,78,83,65,65
 2370,Kevin Volland,82,rare,ST,Germany,Ligue 1 Uber Eats,AS Monaco,70,85,79,80,46,84
 2371,Emre Can,82,rare,CM,Germany,Bundesliga,Borussia Dortmund,80,78,77,80,82,87
+2372,Dimitri Payet,82,rare,CAM,France,,OM,70,78,84,83,40,65
 2373,Simon Kjær,82,common,CB,Denmark,Serie A TIM,Milan,62,54,64,60,84,78
 2374,Sébastien Haller,82,rare,ST,Ivory Coast,Bundesliga,Borussia Dortmund,65,80,62,74,52,82
 2375,Ben Chilwell,82,rare,LWB,England,Premier League,Chelsea,76,60,78,78,78,75
 2376,Matthias Ginter,82,common,CB,Germany,Bundesliga,SC Freiburg,60,59,71,66,84,79
 2377,Grimaldo,82,rare,LB,Spain,Liga Portugal,SL Benfica,87,65,81,83,74,71
 2378,Antony Matheus dos Sa...,82,nif,RW,Brazil,Premier League,Manchester Utd,93,74,75,86,39,69
+2379,Manuel Locatelli,82,rare,CDM,Italy,,,63,72,79,78,79,79
 2380,Robin Gosens,82,rare,LWB,Germany,Serie A TIM,Inter,82,75,74,79,77,80
 2381,Lucas Tolentino Coelh...,82,nif,CAM,Brazil,Premier League,West Ham,72,78,79,85,69,78
 2382,Sergi Darder,82,rare,CM,Spain,LaLiga Santander,RCD Espanyol,82,74,82,83,74,77
@@ -2588,7 +2600,9 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2598,Edin Višća,81,rare,RM,Bosnia Herzegovina,Süper Lig,Trabzonspor,87,78,78,82,47,64
 2599,Martin Terrier,81,common,LW,France,Ligue 1 Uber Eats,Stade Rennais FC,85,81,75,78,36,70
 2600,Miralem Pjanic,81,nif,CM,Bosnia Herzegovina,LaLiga Santander,FC Barcelona,65,69,84,82,74,64
+2601,Hirving Lozano,81,rare,RW,Mexico,,,93,76,72,82,41,62
 2602,Alexandre Lacazette,81,common,ST,France,Ligue 1 Uber Eats,OL,70,81,76,83,44,74
+2603,Stanislav Lobotka,81,rare,CM,Slovakia,,,71,68,79,81,73,70
 2604,Marcus Rashford,81,rare,LW,England,Premier League,Manchester Utd,87,82,75,81,41,71
 2605,Lucas Torreira,81,rare,CDM,Uruguay,Süper Lig,Galatasaray,72,70,76,80,78,76
 2606,Manuel Akanji,81,nif,CB,Switzerland,Premier League,Manchester City,77,48,70,74,83,78
@@ -2709,6 +2723,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2721,Giovanni Reyna,80,world-cup-player,CAM,United States,World Cup,United States,81,74,77,85,38,73
 2722,Salem Al Dawsari,80,world-cup-player,LW,Saudi Arabia,World Cup,Saudi Arabia,87,76,72,84,54,81
 2723,Maximiliano Gómez,80,world-cup-player,ST,Uruguay,World Cup,Uruguay,65,80,69,75,33,84
+2724,Darko Lazović,80,world-cup-player,LM,Serbia,,,88,72,77,81,67,65
 2725,Moussa Sissoko,80,world-cup-player,CDM,France,World Cup,France,72,63,75,78,77,88
 2726,Nikola Vlašić,80,world-cup-player,LM,Croatia,World Cup,Croatia,81,78,77,83,48,70
 2727,Marko Livaja,80,world-cup-player,CF,Croatia,World Cup,Croatia,81,80,73,82,40,84
@@ -2724,6 +2739,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2737,Aitor,80,team-of-the-week,LW,Spain,Hellas Liga,Panathinaikos,88,78,78,80,35,63
 2738,Alexander Isak,80,rare,ST,Sweden,Premier League,Newcastle Utd,83,79,68,83,29,68
 2739,Arthur,80,common,CM,Brazil,Premier League,Liverpool,71,65,80,86,72,69
+2740,Leandro Paredes,80,common,CDM,Argentina,,,64,71,82,78,76,78
 2741,Reguilón,80,rare,LWB,Spain,LaLiga Santander,Atlético de Madrid,83,57,74,78,77,69
 2742,Renan Lodi,80,rare,LB,Brazil,Premier League,Nott'm Forest,83,68,76,80,74,75
 2743,Emile Smith Rowe,80,common,LM,England,Premier League,Arsenal,78,71,76,81,32,61
@@ -2738,6 +2754,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2752,Allan,80,rare,CDM,Brazil,Premier League,Everton,70,69,73,79,79,77
 2753,Scott McTominay,80,rare,CDM,Scotland,Premier League,Manchester Utd,63,74,74,75,78,85
 2754,Héctor Herrera,80,common,CM,Mexico,Major League Soccer,Houston Dynamo,66,75,76,76,76,82
+2755,Mattéo Guendouzi,80,rare,CM,France,,OM,73,66,79,77,77,80
 2756,Marcel Sabitzer,80,rare,CM,Austria,Bundesliga,FC Bayern München,72,81,79,79,66,76
 2757,Lukas Klostermann,80,rare,CB,Germany,Bundesliga,RB Leipzig,86,50,64,71,82,78
 2758,Ridle Baku,80,rare,RM,Germany,Bundesliga,VfL Wolfsburg,82,73,73,81,70,78
@@ -2797,6 +2814,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2812,Alexander Isak,80,nif,ST,Sweden,Premier League,Newcastle Utd,83,79,68,83,29,68
 2813,Sergi Roberto,80,common,RB,Spain,LaLiga Santander,FC Barcelona,74,63,79,77,75,72
 2814,Harvey Barnes,80,common,LM,England,Premier League,Leicester City,86,77,75,81,45,64
+2815,Jonathan Clauss,80,rare,RWB,France,,OM,84,69,76,78,69,70
 2816,Jeremie Frimpong,80,rare,RB,Netherlands,Bundesliga,Leverkusen,94,54,73,83,72,70
 2817,Daley Blind,80,common,CB,Netherlands,Eredivisie,Ajax,42,62,82,79,81,70
 2818,Andy Delort,80,rare,ST,Algeria,Ligue 1 Uber Eats,OGC Nice,82,81,72,75,37,82
@@ -2811,11 +2829,13 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2827,Daichi Kamada,80,common,CAM,Japan,Bundesliga,Frankfurt,74,68,79,83,46,61
 2828,Hans Vanaken,80,common,CM,Belgium,1A Pro League,Club Brugge,44,79,81,76,59,74
 2829,Davide Calabria,80,rare,RB,Italy,Serie A TIM,Milan,79,57,70,74,79,73
+2830,Amir Rrahmani,80,common,CB,Kosovo,,,61,51,58,61,82,80
 2831,Charles Aránguiz,80,common,CDM,Chile,Bundesliga,Leverkusen,46,71,79,77,76,71
 2832,Leon Bailey,80,rare,RM,Jamaica,Premier League,Aston Villa,92,78,74,83,33,61
 2833,Nikola Milenković,80,common,CB,Serbia,Serie A TIM,Fiorentina,64,45,62,62,81,83
 2834,Danilo Pereira,80,common,CDM,Portugal,Ligue 1 Uber Eats,Paris SG,56,63,70,71,79,85
 2835,Morata,80,rare,ST,Spain,LaLiga Santander,Atlético de Madrid,80,78,72,78,31,77
+2836,Alex Sandro,80,common,LB,Brazil,,,76,65,73,78,76,78
 2837,Edson Álvarez,80,rare,CDM,Mexico,Eredivisie,Ajax,71,57,67,69,82,86
 2838,Bryan Cristante,80,common,CDM,Italy,Serie A TIM,Roma FC,54,73,77,75,77,78
 2839,Deulofeu,80,rare,CF,Spain,Serie A TIM,Udinese,90,79,75,83,30,66
@@ -2823,8 +2843,10 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 2841,Renan Augusto Lodi do...,80,nif,LB,Brazil,Premier League,Nott'm Forest,83,68,76,80,74,75
 2842,Arthur Henrique Ramos...,80,nif,CM,Brazil,Premier League,Liverpool,71,65,80,86,72,69
 2843,Álex Berenguer,80,common,RM,Spain,LaLiga Santander,Athletic Club,81,76,76,82,64,64
+2844,Leandro Paredes,80,nif,CDM,Argentina,,,64,71,82,78,76,78
 2845,Francis Coquelin,80,rare,CM,France,LaLiga Santander,Villarreal CF,68,68,78,79,78,80
 2846,Georginio Wijnaldum,80,rare,CM,Netherlands,Serie A TIM,Roma FC,69,71,77,80,77,78
+2847,Weston McKennie,80,rare,CM,United States,,,82,74,76,80,78,83
 2848,Dan Kemp,79,team-of-the-week,CM,England,EFL League One,Hartlepool,90,80,76,81,45,51
 2849,Niels Nkounkou,79,team-of-the-week,LWB,France,Ligue 2 BKT,AS Saint-Étienne,93,55,73,77,73,82
 2850,Ibrahim Sadiq,79,domestic-man-of-the-match,RW,Ghana,Allsvenskan,BK Häcken,93,70,67,83,39,71
@@ -2996,6 +3018,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3016,Gerson Rodrigues,79,team-of-the-week,ST,Luxemburg,Rest of World,Al Wehda,91,76,74,77,52,87
 3017,Munir,79,common,LW,Morocco,LaLiga Santander,Getafe CF,77,78,75,82,35,64
 3018,Julian Draxler,79,common,LW,Germany,Liga Portugal,SL Benfica,72,76,80,82,58,65
+3019,Arkadiusz Milik,79,common,ST,Poland,,,61,82,69,74,39,69
 3020,Amine Gouiri,79,rare,ST,France,Ligue 1 Uber Eats,Stade Rennais FC,78,81,76,80,45,69
 3021,Nicolas Pépé,79,rare,RM,Ivory Coast,Ligue 1 Uber Eats,OGC Nice,88,77,74,82,36,62
 3022,Ander Herrera,79,common,CM,Spain,LaLiga Santander,Athletic Club,61,71,77,78,78,74
@@ -3007,6 +3030,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3028,Angelo Ogbonna,79,common,CB,Italy,Premier League,West Ham,49,40,60,62,82,68
 3029,Axel Witsel,79,common,CDM,Belgium,LaLiga Santander,Atlético de Madrid,34,63,79,75,78,74
 3030,Lewis Dunk,79,common,CB,England,Premier League,Brighton,44,51,62,63,80,79
+3031,Arkadiusz Milik,79,nif,ST,Poland,,,61,82,69,74,39,69
 3032,Leandro Trossard,79,rare,LM,Belgium,Premier League,Brighton,82,78,76,81,30,62
 3033,Dakonam Djené,79,common,CB,Togo,LaLiga Santander,Getafe CF,67,38,62,62,79,77
 3034,Rubén García,79,common,LM,Spain,LaLiga Santander,CA Osasuna,77,76,79,79,45,54
@@ -3021,6 +3045,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3043,Nemanja Maksimović,79,common,CM,Serbia,LaLiga Santander,Getafe CF,51,72,75,74,77,77
 3044,Lars Stindl,79,common,CAM,Germany,Bundesliga,M'gladbach,55,79,79,79,60,74
 3045,Ismaily,79,rare,LB,Brazil,Ligue 1 Uber Eats,LOSC Lille,82,64,74,80,74,74
+3046,Alexis Sánchez,79,common,CF,Chile,,OM,72,77,78,83,43,67
 3047,Rafa Mir,79,common,ST,Spain,LaLiga Santander,Sevilla FC,78,81,67,71,45,78
 3048,Callum Wilson,79,rare,ST,England,Premier League,Newcastle Utd,81,78,66,77,42,76
 3049,Samuel Umtiti,79,common,CB,France,Serie A TIM,Lecce,63,62,68,67,79,75
@@ -3041,8 +3066,10 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3064,Josip Brekalo,79,rare,CF,Croatia,Bundesliga,VfL Wolfsburg,81,76,76,84,38,55
 3065,Matty Cash,79,common,RB,Poland,Premier League,Aston Villa,80,67,71,75,74,76
 3066,Julian Weigl,79,nif,CM,Germany,Bundesliga,M'gladbach,59,64,75,77,79,75
+3067,Chancel Mbemba,79,rare,CB,DR Congo,,OM,72,50,56,65,80,81
 3068,João Mário,79,common,CM,Portugal,Liga Portugal,SL Benfica,70,69,81,82,65,66
 3069,Houssem Aouar,79,common,CAM,France,Ligue 1 Uber Eats,OL,71,70,78,83,64,68
+3070,Tanguy Ndombele,79,common,CM,France,,,66,71,79,86,68,68
 3071,Benjamin André,79,common,CDM,France,Ligue 1 Uber Eats,LOSC Lille,65,64,73,75,78,84
 3072,Ellyes Skhiri,79,common,CDM,Tunisia,Bundesliga,1. FC Köln,68,72,71,75,79,75
 3073,Rodrigo Bentancur,79,rare,CM,Uruguay,Premier League,Spurs,67,62,79,80,78,77
@@ -3090,6 +3117,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3115,Wout Weghorst,79,common,ST,Netherlands,Süper Lig,Beşiktaş,60,77,60,69,52,86
 3116,Nicolas Pepe,79,nif,RM,Ivory Coast,Ligue 1 Uber Eats,OGC Nice,88,77,74,82,36,62
 3117,Ali Musrati,79,common,CDM,Libya,Liga Portugal,SC Braga,58,61,70,70,78,83
+3118,Kim Min Jae,79,rare,CB,Korea Republic,,,80,33,57,62,79,84
 3119,Gonçalo Inácio,79,rare,CB,Portugal,Liga Portugal,Sporting CP,80,36,61,61,80,77
 3120,Munir El Haddadi,79,nif,LW,Morocco,LaLiga Santander,Getafe CF,77,78,75,82,35,64
 3121,Denis Suárez,79,common,CM,Spain,LaLiga Santander,RC Celta,72,72,81,81,64,55
@@ -3115,6 +3143,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3141,Pedro,79,common,LW,Spain,Serie A TIM,Latium,73,74,76,86,36,51
 3142,Granit Xhaka,79,common,CDM,Switzerland,Premier League,Arsenal,49,64,79,69,69,80
 3143,Nordi Mukiele,79,rare,RWB,France,Ligue 1 Uber Eats,Paris SG,78,49,68,72,81,80
+3144,Cengiz Ünder,79,common,RW,Turkey,,OM,78,77,75,80,38,52
 3145,Boulaye Dia,79,common,ST,Senegal,Serie A TIM,Salernitana,83,78,62,76,27,76
 3146,Beto,79,common,ST,Portugal,Serie A TIM,Udinese,87,79,58,74,24,81
 3147,Lucas Zelarayán,79,common,CAM,Armenia,Major League Soccer,Columbus Crew,71,76,78,82,46,66
@@ -3127,9 +3156,11 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3154,Gavi,79,common,CM,Spain,LaLiga Santander,FC Barcelona,76,64,77,83,64,67
 3155,Pablo Fornals,79,common,CAM,Spain,Premier League,West Ham,67,74,79,79,69,71
 3156,Amine Gouiri,79,nif,ST,France,Ligue 1 Uber Eats,Stade Rennais FC,78,81,76,80,45,69
+3157,Nicolae Stanciu,79,rare,CM,Romania,,,74,75,81,82,62,68
 3158,Conor Gallagher,79,common,CM,England,Premier League,Chelsea,74,76,75,78,67,74
 3159,Adama Traoré,79,rare,RW,Spain,Premier League,Wolves,96,65,68,86,38,83
 3160,Matheus Nunes,79,rare,CM,Portugal,Premier League,Wolves,82,71,73,82,74,76
+3161,Jordan Veretout,79,common,CDM,France,,OM,76,75,76,78,76,79
 3162,Pozuelo,78,common,CAM,Spain,Süper Lig,Konyaspor,64,73,79,80,53,67
 3163,Dejan Lovren,78,common,CB,Croatia,Ligue 1 Uber Eats,OL,53,40,60,62,80,78
 3164,César Montes,78,common,CB,Mexico,LaLiga Santander,RCD Espanyol,61,44,63,65,79,79
@@ -3367,6 +3398,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3396,Luis Fernando León,78,world-cup-player,CB,Ecuador,World Cup,Ecuador,64,45,53,56,77,79
 3397,Yūya Ōsako,78,world-cup-player,ST,Japan,World Cup,Japan,77,79,65,77,48,73
 3398,Diego Lainez,78,world-cup-player,RM,Mexico,World Cup,Mexico,80,68,74,84,52,53
+3399,Abdul Mumin,78,world-cup-player,CB,Ghana,,,84,42,64,68,76,81
 3400,Yasuto Wakizaka,78,world-cup-player,CM,Japan,World Cup,Japan,68,72,80,77,59,68
 3401,Omid Nor Afkan,78,world-cup-player,LB,Iran,World Cup,Iran,76,59,73,72,74,73
 3402,Jordan Morris,78,world-cup-player,LM,United States,World Cup,United States,89,73,72,76,42,83
@@ -3465,9 +3497,11 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3495,Juan Fernando Quintero,78,conmebol-libertadores,CAM,Colombia,CONMEBOL Libertadores,River Plate,71,76,79,82,39,51
 3496,Karl Toko Ekambi,78,rare,LM,Cameroon,Ligue 1 Uber Eats,OL,83,78,72,76,25,68
 3497,Josef Martínez,78,rare,ST,Venezuela,Major League Soccer,Atlanta United,85,79,60,77,25,66
+3498,Mário Rui,78,common,LB,Portugal,,,80,53,73,78,73,65
 3499,Pablo Maffeo,78,common,RB,Spain,LaLiga Santander,RCD Mallorca,83,52,68,78,75,68
 3500,Luiz Araújo,78,common,RM,Brazil,Major League Soccer,Atlanta United,88,69,72,83,39,57
 3501,Juan Bernat,78,common,LB,Spain,Ligue 1 Uber Eats,Paris SG,74,64,76,81,75,58
+3502,Samuel Gigot,78,common,CB,France,,OM,67,38,65,61,79,80
 3503,Pozuelo,78,common,CAM,Spain,Major League Soccer,Inter Miami CF,64,73,79,80,53,67
 3504,Franco Cervi,78,rare,LM,Argentina,LaLiga Santander,RC Celta,88,67,72,80,55,54
 3505,Ramy Bensebaini,78,common,LB,Algeria,Bundesliga,M'gladbach,70,64,72,74,76,79
@@ -3513,6 +3547,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3545,Fredrik Aursnes,78,common,CDM,Norway,Liga Portugal,SL Benfica,73,65,76,78,74,76
 3546,James Tavernier,78,rare,RB,England,cinch Premiership,Rangers,83,73,77,75,72,80
 3547,Pierre Kalulu,78,rare,CB,France,Serie A TIM,Milan,80,50,68,69,79,75
+3548,Gerson,78,rare,CM,Brazil,,OM,69,69,78,78,76,79
 3549,Maxwel Cornet,78,rare,LM,Ivory Coast,Premier League,West Ham,87,76,71,77,67,77
 3550,Nicolás De la Cruz,78,conmebol-libertadores,CM,Uruguay,CONMEBOL Libertadores,River Plate,85,76,78,82,70,69
 3551,Jorge Molina,78,common,ST,Spain,LaLiga SmartBank,Granada CF,33,83,67,68,41,70
@@ -3560,6 +3595,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3593,Nahuel Molina,78,common,RWB,Argentina,LaLiga Santander,Atlético de Madrid,82,67,71,76,71,69
 3594,Raúl Ruidíaz,78,rare,ST,Peru,Major League Soccer,Sounders FC,83,79,66,79,33,69
 3595,Taras Stepanenko,78,common,CDM,Ukraine,Ukrayina Liha,Shakhtar Donetsk,65,63,71,69,77,78
+3596,Giovanni Simeone,78,rare,ST,Argentina,,,77,79,64,75,41,76
 3597,Marcos Senesi,78,common,CB,Argentina,Premier League,AFC Bournemouth,60,42,69,74,79,78
 3598,James Milner,78,common,CM,England,Premier League,Liverpool,52,70,80,76,77,74
 3599,Tyrone Mings,78,common,CB,England,Premier League,Aston Villa,71,44,67,66,78,80
@@ -3599,6 +3635,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3633,Marcos Rojo,78,conmebol-libertadores,CB,Argentina,CONMEBOL Libertadores,Boca Juniors,65,60,67,64,77,81
 3634,Eljif Elmas,78,common,CAM,FYR Macedonia,Serie A TIM,Napoli,76,71,74,83,66,69
 3635,Marcus Thuram,78,common,ST,France,Bundesliga,M'gladbach,81,77,71,78,48,76
+3636,Valentin Rongier,78,rare,CM,France,,OM,71,66,76,78,77,80
 3637,Roberto Pereyra,78,rare,CM,Argentina,Serie A TIM,Udinese,76,74,77,79,68,74
 3638,Junya Ito,78,rare,RW,Japan,Ligue 1 Uber Eats,Stade de Reims,89,71,73,78,58,70
 3639,Ole Romeny,77,team-of-the-week,RW,Netherlands,Eredivisie,FC Emmen,83,80,71,80,45,77
@@ -3857,6 +3894,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3892,Paulo Oliveira,77,common,CB,Portugal,Liga Portugal,SC Braga,60,35,51,61,79,76
 3893,Rob Holding,77,common,CB,England,Premier League,Arsenal,54,34,61,66,78,73
 3894,David López,77,common,CDM,Spain,LaLiga Santander,Girona FC,50,58,68,65,78,75
+3895,Diego Demme,77,common,CDM,Germany,,,56,47,74,75,73,72
 3896,Ismaïla Sarr,77,rare,RM,Senegal,EFL Championship,Watford,94,76,67,80,22,67
 3897,Arthur Cabral,77,common,ST,Brazil,Serie A TIM,Fiorentina,73,77,63,73,31,78
 3898,Kevin Mbabu,77,rare,RB,Switzerland,Premier League,Fulham,83,51,66,71,73,81
@@ -3895,6 +3933,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 3931,Domingos Duarte,77,common,CB,Portugal,LaLiga Santander,Getafe CF,52,35,58,53,79,78
 3932,Christoph Kramer,77,common,CDM,Germany,Bundesliga,M'gladbach,42,50,70,71,76,73
 3933,Montoro,77,common,CDM,Spain,LaLiga SmartBank,R. Oviedo,38,65,72,70,75,68
+3934,Mathías Olivera,77,common,LB,Uruguay,,,74,50,66,71,74,76
 3935,Carlos Izquierdoz,77,common,CB,Argentina,LaLiga SmartBank,R. Sporting,50,54,54,54,78,82
 3936,Ademola Lookman,77,rare,LM,England,Serie A TIM,Bergamo Calcio,85,73,68,82,29,60
 3937,Nicolas Pallois,77,common,CB,France,Ligue 1 Uber Eats,FC Nantes,37,54,61,61,77,84
@@ -4111,6 +4150,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4148,Brian Brobbey,76,common,ST,Netherlands,Eredivisie,Ajax,82,73,55,70,30,82
 4149,Alfredo Morelos,76,common,ST,Colombia,cinch Premiership,Rangers,77,75,68,72,43,81
 4150,Sancet,76,common,ST,Spain,LaLiga Santander,Athletic Club,73,75,68,77,51,64
+4151,Luis Javier Suárez,76,common,ST,Colombia,,OM,85,77,67,75,40,80
 4152,Federico Di Francesco,76,common,LW,Italy,Serie A TIM,Lecce,78,70,73,80,39,60
 4153,Divock Origi,76,common,ST,Belgium,Serie A TIM,Milan,79,75,67,75,27,73
 4154,Max-Alain Gradel,76,common,LW,Ivory Coast,Süper Lig,Sivasspor,78,77,71,79,42,63
@@ -4162,6 +4202,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4200,Kodjo Fo-Doh Laba,76,common,ST,Togo,United Emirates League,Al Ain FC,78,76,63,69,25,80
 4201,Vangelis Pavlidis,76,common,ST,Greece,Eredivisie,AZ,77,75,64,74,43,80
 4202,Luiz Adriano,76,common,ST,Brazil,Süper Lig,Antalyaspor,71,76,66,76,33,64
+4203,Cédric Bakambu,76,common,ST,DR Congo,,OM,81,76,66,73,36,63
 4204,Roger,76,common,ST,Spain,LaLiga Santander,Elche CF,74,78,63,74,41,73
 4205,Arnaud Kalimuendo,76,common,ST,France,Ligue 1 Uber Eats,Stade Rennais FC,81,75,59,77,29,66
 4206,Levi García,76,common,RW,Trinidad & Tobago,Hellas Liga,AEK Athens,87,68,70,82,33,72
@@ -4198,6 +4239,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4237,Hidemasa Morita,76,common,CM,Japan,Liga Portugal,Sporting CP,67,64,74,75,72,73
 4238,Aaron Mooy,76,common,CM,Australia,cinch Premiership,Celtic,62,72,78,74,69,75
 4239,Roland Sallai,76,common,RM,Hungary,Bundesliga,SC Freiburg,75,70,71,78,37,65
+4240,Pape Gueye,76,common,CDM,Senegal,,OM,63,48,66,70,73,79
 4241,Grischa Prömel,76,common,CM,Germany,Bundesliga,TSG Hoffenheim,65,71,71,73,74,81
 4242,Gustavo Cuéllar,76,common,CDM,Colombia,Rest of World,Al Hilal,69,50,66,69,74,81
 4243,Cheick Doucouré,76,common,CM,Mali,Premier League,Crystal Palace,68,57,71,76,74,76
@@ -4276,6 +4318,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4316,Álvaro García,76,common,LM,Spain,LaLiga Santander,Rayo Vallecano,91,67,71,75,37,45
 4317,Evander,76,common,CM,Brazil,3F Superliga,FC Midtjylland,73,71,76,80,67,69
 4318,Renato Steffen,76,common,LM,Switzerland,Credit Suisse Super League,FC Lugano,85,71,71,79,54,66
+4319,Gonzalo Escalante,76,common,CDM,Argentina,,,63,67,72,71,73,74
 4320,Radja Nainggolan,76,rare,CM,Belgium,1A Pro League,Royal Antwerp FC,68,79,76,74,71,78
 4321,Harry Winks,76,common,CM,England,Serie A TIM,Sampdoria,60,59,76,77,71,64
 4322,Mikkel Damsgaard,76,common,LM,Denmark,Premier League,Brentford,84,68,71,81,48,62
@@ -4291,14 +4334,18 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4332,Nicolás Domínguez,76,rare,CM,Argentina,Serie A TIM,Bologna,75,66,72,76,72,77
 4333,Roberto Gagliardini,76,common,CDM,Italy,Serie A TIM,Inter,53,63,71,73,76,74
 4334,Youcef Belaïli,76,common,LM,Algeria,Ligue 1 Uber Eats,Stade Brestois 29,79,74,72,79,26,68
+4335,Xavier Mercier,76,common,CAM,France,,,66,71,81,73,47,64
 4336,Luciano Acosta,76,rare,CAM,Argentina,Major League Soccer,FC Cincinnati,79,66,71,83,46,56
 4337,Tonny Vilhena,76,common,LM,Netherlands,Serie A TIM,Salernitana,73,72,76,77,73,77
+4338,Daniele Rugani,76,common,CB,Italy,,,55,40,55,63,78,71
 4339,Mauricio Isla,76,conmebol-libertadores,RB,Chile,CONMEBOL Libertadores,Uni. Católica,77,54,73,75,72,73
 4340,Ghislain Konan,76,common,LB,Ivory Coast,Rest of World,Al Nassr,78,51,68,75,72,71
+4341,Mattia De Sciglio,76,common,RB,Italy,,,67,46,70,75,76,69
 4342,Rayan Aït Nouri,76,common,LWB,France,Premier League,Wolves,77,44,70,76,73,62
 4343,Fali,76,common,CB,Spain,LaLiga Santander,Cádiz CF,52,53,68,59,75,87
 4344,Liam Cooper,76,common,CB,Scotland,Premier League,Leeds United,49,35,56,58,77,77
 4345,James Justin,76,common,LB,England,Premier League,Leicester City,81,50,69,72,73,70
+4346,Eric Bailly,76,common,CB,Ivory Coast,,OM,70,42,56,66,76,74
 4347,Kevin Vogt,76,common,CB,Germany,Bundesliga,TSG Hoffenheim,71,57,72,68,77,75
 4348,Eric García,76,common,CB,Spain,LaLiga Santander,FC Barcelona,62,44,71,68,77,71
 4349,Nahuel Tenaglia,76,common,RB,Argentina,LaLiga SmartBank,D. Alavés,71,43,65,72,75,79
@@ -4349,6 +4396,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4394,Jorge Sánchez,76,rare,RB,Mexico,Eredivisie,Ajax,92,50,64,75,71,81
 4395,Vitaliy Mykolenko,76,common,LB,Ukraine,Premier League,Everton,76,46,64,61,73,62
 4396,Jeremiah St. Juste,76,rare,CB,Netherlands,Liga Portugal,Sporting CP,93,58,65,74,78,73
+4397,Juan Jesus,76,common,CB,Brazil,,,69,33,51,60,78,73
 4398,Yunis Abdelhamid,76,common,CB,Morocco,Ligue 1 Uber Eats,Stade de Reims,32,33,57,62,76,80
 4399,Zaldúa,76,common,RB,Spain,LaLiga Santander,Cádiz CF,66,37,68,65,75,75
 4400,Frank Fabra,76,conmebol-libertadores,LB,Colombia,CONMEBOL Libertadores,Boca Juniors,83,68,74,78,69,77
@@ -4476,6 +4524,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4522,Florian Sotoca,75,common,ST,France,Ligue 1 Uber Eats,RC Lens,74,72,69,71,43,80
 4523,Marvin Ducksch,75,common,ST,Germany,Bundesliga,SV Werder Bremen,70,76,67,69,34,69
 4524,Krzysztof Piątek,75,common,ST,Poland,Serie A TIM,Salernitana,72,76,54,72,36,71
+4525,Cyriel Dessers,75,common,ST,Nigeria,,,75,74,56,71,29,75
 4526,Fran Navarro,75,common,ST,Spain,Liga Portugal,Gil Vicente,68,75,53,72,41,78
 4527,Karim Adeyemi,75,rare,ST,Germany,Bundesliga,Borussia Dortmund,93,76,66,78,24,70
 4528,Luca Waldschmidt,75,common,CF,Germany,Bundesliga,VfL Wolfsburg,68,78,70,76,29,61
@@ -4618,6 +4667,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4665,Salman Al Faraj,75,common,CM,Saudi Arabia,Rest of World,Al Hilal,57,66,78,75,67,69
 4666,Omar Mascarell,75,common,CDM,Spain,LaLiga Santander,Elche CF,57,60,69,72,72,71
 4667,Dennis Geiger,75,common,CM,Germany,Bundesliga,TSG Hoffenheim,53,53,74,79,61,58
+4668,Amine Harit,75,common,LM,Morocco,,OM,74,62,71,79,39,49
 4669,Jesper Lindstrøm,75,common,CAM,Denmark,Bundesliga,Frankfurt,87,70,69,78,48,63
 4670,Georges-Kévin Nkoudou,75,rare,LM,France,Süper Lig,Beşiktaş,93,67,68,79,34,58
 4671,Alfred Duncan,75,rare,CM,Ghana,Serie A TIM,Fiorentina,73,64,72,74,74,81
@@ -4648,6 +4698,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4696,Lorenzo Faravelli,75,conmebol-libertadores,CM,Argentina,CONMEBOL Libertadores,Independiente DV,82,75,73,74,69,65
 4697,Nicolas Höfler,75,common,CDM,Germany,Bundesliga,SC Freiburg,62,47,66,68,74,74
 4698,Soufiane Rahimi,75,common,LM,Morocco,United Emirates League,Al Ain FC,85,73,70,74,38,65
+4699,Soualiho Meïté,75,common,CM,France,,,66,59,72,77,71,78
 4700,Sebastian Rudy,75,common,CM,Germany,Bundesliga,TSG Hoffenheim,63,65,77,75,71,66
 4701,Adam Lallana,75,common,CM,England,Premier League,Brighton,61,70,77,77,62,61
 4702,Junior Sornoza,75,conmebol-libertadores,CAM,Ecuador,CONMEBOL Libertadores,Independiente DV,71,73,74,75,40,47
@@ -4657,6 +4708,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4706,Damián Díaz,75,conmebol-sudamericana,CAM,Ecuador,CONMEBOL Libertadores,Barcelona SC,71,71,76,77,44,68
 4707,Lucas Tousart,75,common,CDM,France,Bundesliga,Hertha Berlin,63,53,64,66,76,82
 4708,Daniel-Kofi Kyereh,75,common,CAM,Ghana,Bundesliga,SC Freiburg,81,72,66,80,24,62
+4709,Matheus,75,common,RM,Brazil,,,85,75,64,79,36,62
 4710,Nicolas Seiwald,75,common,CM,Austria,Österreichische Fußball-Bundesliga,RB Salzburg,73,62,73,72,72,73
 4711,John Swift,75,common,CAM,England,EFL Championship,West Brom,64,74,75,78,58,58
 4712,Iddrisu Baba,75,common,CDM,Ghana,LaLiga Santander,RCD Mallorca,63,50,64,64,75,78
@@ -4670,6 +4722,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4720,Denis Bouanga,75,common,LM,Gabon,Major League Soccer,LAFC,84,73,70,76,38,72
 4721,Yacine Adli,75,common,CM,France,Serie A TIM,Milan,66,70,76,75,66,69
 4722,Glen Kamara,75,rare,CM,Finland,cinch Premiership,Rangers,76,60,71,76,72,76
+4723,Nacer Chadli,75,common,LM,Belgium,,,74,75,74,77,56,74
 4724,Agustín Palavecino,75,conmebol-libertadores,CM,Argentina,CONMEBOL Libertadores,River Plate,77,72,76,79,63,64
 4725,Nathan Redmond,75,common,LM,England,Süper Lig,Beşiktaş,80,72,70,79,30,51
 4726,Lincoln,75,common,CAM,Brazil,Süper Lig,Fenerbahçe,78,70,77,78,45,65
@@ -4684,8 +4737,10 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4735,Jamaal Lascelles,75,common,CB,England,Premier League,Newcastle Utd,41,35,49,53,75,75
 4736,Connor Roberts,75,common,RB,Wales,EFL Championship,Burnley,78,54,66,69,69,74
 4737,Tiago Djaló,75,rare,CB,Portugal,Ligue 1 Uber Eats,LOSC Lille,81,42,60,63,76,77
+4738,Leonardo Balerdi,75,common,CB,Argentina,,OM,68,36,57,64,75,75
 4739,Paweł Dawidowicz,75,common,CB,Poland,Serie A TIM,Hellas Verona,62,48,63,65,76,77
 4740,Cote,75,common,LB,Spain,LaLiga SmartBank,R. Sporting,64,54,75,70,74,67
+4741,Sead Kolašinac,75,common,LB,Bosnia Herzegovina,,OM,73,62,68,70,71,85
 4742,Benjamin Hübner,75,common,CB,Germany,Bundesliga,TSG Hoffenheim,38,33,55,57,78,67
 4743,Ryan Fredericks,75,common,RB,England,Premier League,AFC Bournemouth,91,51,66,73,69,67
 4744,Lekue,75,common,RB,Spain,LaLiga Santander,Athletic Club,81,62,70,70,70,72
@@ -4762,6 +4817,7 @@ Unnamed: 0,name,rating,card_type,position,nation,league,team,PAC,SHO,PAS,DRI,DEF
 4815,Kortney Hause,75,common,CB,England,EFL Championship,Watford,59,45,60,59,74,78
 4816,Josip Šutalo,75,rare,CB,Croatia,Liga Hrvatska,Dinamo Zagreb,78,29,58,67,76,77
 4817,Mason Holgate,75,common,CB,England,Premier League,Everton,71,43,68,68,76,76
+4818,Pietro Beruatto,75,common,LB,Italy,,,70,43,59,65,75,69
 4819,Ritchie De Laet,75,common,RB,Belgium,1A Pro League,Royal Antwerp FC,83,51,63,68,73,78
 4820,Mattia Caldara,75,common,CB,Italy,Serie A TIM,Spezia,58,34,46,63,77,75
 4821,Robert Rojas,75,conmebol-libertadores,RB,Paraguay,CONMEBOL Libertadores,River Plate,80,56,64,66,74,76
