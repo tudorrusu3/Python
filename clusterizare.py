@@ -20,7 +20,9 @@ plt.title(f'Scatter Plot pentru {x_column} vs {y_column} (cu DEF > 80)')
 plt.xlabel(x_column)
 plt.ylabel(y_column)
 
-mplcursors.cursor(hover=True).connect("add", lambda sel: sel.annotation.set_text(names[sel.target.index]))
+mplcursors.cursor(hover=True).connect("add", lambda sel: sel.annotation.set_text(
+    f"Name: {names[sel.target.index]}\nPace: {x[sel.target.index]}\nPhysical: {y[sel.target.index]}"
+))
 
 plt.show()
 
