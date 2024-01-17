@@ -2,25 +2,30 @@ import numpy as np
 import pandas as pd
 from sklearn.cross_decomposition import CCA
 import matplotlib.pyplot as plt
+import mplcursors
 
-# Încarcă datele din fișierul CSV
 df = pd.read_csv('fifa_2023.csv')
 
-# Alegeți variabilele relevante pentru CCA
-X_columns = ['PAC', 'SHO', 'PAS', 'DRI', 'DEF', 'PHY']
-Y_columns = ['Rating']
+df_filtered = df[(df['rating'] > 60) & (df['DEF'] > 86) & (df['SHO'] < 70)].copy()
 
-# Extrage datele relevante
-X = df[X_columns].values
-Y = df[Y_columns].values
+X_columns = ['SHO']
+Y_columns = ['rating']
 
-# Inițializează CCA cu n_components=1
+X = df_filtered[X_columns].values
+Y = df_filtered[Y_columns].values
+
 cca = CCA(n_components=1)
 X_c, Y_c = cca.fit_transform(X, Y)
 
-# Plotează prima pereche de variabile canonice
-plt.scatter(X_c, Y_c)
-plt.xlabel('X_c1')
-plt.ylabel('Y_c1')
-plt.title('Perechea de variabile canonice')
+df_filtered.loc[:, 'X_c1'] = X_c
+df_filtered.loc[:, 'Y_c1'] = Y_c
+
+scatter = plt.scatter(df_filtered['X_c1'], df_filtered['Y_c1'])
+plt.title('Scatter Plot pentru Variabilele Canonice (cu rating > 87 și DEF > 86)')
+
+plt.xlabel('SHOOTING')
+plt.ylabel('RATING')
+
+mplcursors.cursor(hover=True).connect("add", lambda sel: sel.annotation.set_text(df_filtered['name'].iloc[sel.target.index]))
+
 plt.show()
